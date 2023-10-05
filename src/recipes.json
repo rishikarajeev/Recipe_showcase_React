@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "type": "Italian",
+      "ingredients": ["spaghetti", "eggs", "pancetta", "Parmesan cheese"],
+      "instructions": "..."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Stir-Fry",
+      "type": "Asian",
+      "ingredients": ["chicken", "vegetables", "soy sauce"],
+      "instructions": "..."
+    }
+ 
+  ]
+  
